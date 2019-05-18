@@ -1,9 +1,11 @@
-## client - React App & Apollo
+##
+
+### client - React App & Apollo
 `
 npm run start
 `
 
-## server
+### server
 `
 node app.js
 `
