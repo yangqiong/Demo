@@ -8,3 +8,5 @@ require (
 	github.com/sirupsen/logrus v1.4.2
 	github.com/urfave/cli v1.20.0
 )
+
+replace mydocker => /Users/yangqiong/Demo/mydocker
